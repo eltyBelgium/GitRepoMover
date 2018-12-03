@@ -64,6 +64,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="app.manifest" />
+    <None Include="config.json" />
     <None Include="config.synced.json" />
     <None Include="packages.config" />
   </ItemGroup>
